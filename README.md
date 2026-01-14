@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header GIF -->
-<img src="./retro_coder.gif" width="100%" alt="Coding Animation"/>
+<!-- Header Image -->
+<img src="./header.png" width="100%" alt="Developer Header"/>
 
 <br/>
 
