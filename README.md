@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<!-- GitHub Stats Badges - One Line Like Eshan's -->
+<!-- GitHub Stats Badges - One Line Like  -->
 <p>
   <img src="https://img.shields.io/github/stars/HirushaGamage10?style=for-the-badge&logo=github&label=STARS&color=A855F7" alt="Stars"/>
   &nbsp;
@@ -64,17 +64,14 @@
 
 <br/>
 
-<!-- Contribution Graph + Snake Chart Side by Side -->
+<!-- Contribution Graph + Snake Animation Side by Side -->
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h4 style="color: #A855F7;">Hirusha's Contribution Graph</h4>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&title_color=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" width="100%"/>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
     </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/HirushaGamage10/HirushaGamage10/output/github-contribution-grid-snake-dark.svg" alt="Snake Chart" width="100%"/>
-      <br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaGamage10&theme=transparent&hide_border=true&stroke=A855F7&ring=A855F7&fire=10B981&currStreakLabel=FFFFFF&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&background=0D1117" alt="Streak Stats" width="100%"/>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
     </td>
   </tr>
 </table>
