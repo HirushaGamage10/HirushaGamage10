@@ -34,8 +34,9 @@
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack</h2>
 <img src="./pixel_dev.gif" width="100%"/>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,php,laravel" />
@@ -46,9 +47,9 @@
 
 </div>
 
-<img src="./pixel_dev.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Stats**
+
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats</h2>
 <img src="./pixel_dev.gif" width="100%"/>
 <div align="center">
 
@@ -77,9 +78,9 @@
 
 </div>
 
-<img src="./pixel_dev.gif" width="100%"/>
 
-## 🤝 **Connect With Me**
+
+<h2>🤝 Connect With Me</h2>
 <img src="./pixel_dev.gif" width="100%"/>
 <div align="center">
 
