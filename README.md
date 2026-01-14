@@ -64,7 +64,7 @@
 
 <br/>
 
-<!-- Contribution Graph + GitHub Heatmap Side by Side -->
+<!-- Contribution Graph + Snake Chart Side by Side -->
 <table>
   <tr>
     <td width="50%" align="center">
@@ -72,7 +72,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&title_color=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://ghchart.rshah.org/A855F7/HirushaGamage10" alt="GitHub Contribution Heatmap" width="100%"/>
+      <img src="https://raw.githubusercontent.com/HirushaGamage10/HirushaGamage10/output/github-contribution-grid-snake-dark.svg" alt="Snake Chart" width="100%"/>
       <br/><br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaGamage10&theme=transparent&hide_border=true&stroke=A855F7&ring=A855F7&fire=10B981&currStreakLabel=FFFFFF&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&background=0D1117" alt="Streak Stats" width="100%"/>
     </td>
