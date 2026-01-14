@@ -52,13 +52,13 @@
 
 <div align="center">
 
-<!-- GitHub Stats Badges -->
+<!-- GitHub Stats Badges - Dynamic Data -->
 <p>
-  <img src="https://img.shields.io/github/stars/HirushaGamage10?style=for-the-badge&logo=github&label=STARS&color=A855F7" alt="Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&style=for-the-badge&query=%24.public_repos&url=https://api.github.com/users/HirushaGamage10&color=A855F7" alt="Repos"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🔥_COMMIT_ACTIVITY-37%2FMONTH-A855F7?style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/github/commit-activity/m/HirushaGamage10/HirushaGamage10?style=for-the-badge&label=COMMITS&color=A855F7" alt="Commits"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⏱_LAST_COMMIT-YESTERDAY-10B981?style=for-the-badge" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/HirushaGamage10/HirushaGamage10?style=for-the-badge&label=LAST%20COMMIT&color=10B981" alt="Last Commit"/>
 </p>
 
 <br/>
