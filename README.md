@@ -24,9 +24,10 @@
 
 <!-- Profile Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=HirushaGamage10&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HirushaGamage10&label=Profile%20Views&color=A855F7&style=flat" alt="Profile Views" />
+  &nbsp;
   <a href="https://github.com/HirushaGamage10?tab=followers">
-    <img src="https://img.shields.io/github/followers/HirushaGamage10?label=Followers&style=for-the-badge&color=A855F7" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/HirushaGamage10?label=Followers&style=flat&logo=github&color=A855F7" alt="Followers"/>
   </a>
 </p>
 
@@ -34,7 +35,7 @@
 
 
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack</h2>
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack</h3>
 <img src="./pixel_dev.gif" width="100%"/>
 
 <div align="center">
@@ -49,7 +50,7 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats</h2>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats</h3>
 <img src="./pixel_dev.gif" width="100%"/>
 <div align="center">
 
@@ -80,7 +81,7 @@
 
 
 
-<h2>🤝 Connect With Me</h2>
+<h3>🤝 Connect With Me</h3>
 <img src="./pixel_dev.gif" width="100%"/>
 <div align="center">
 
