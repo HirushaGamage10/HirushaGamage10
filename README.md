@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Cool Banner Image -->
-<img src="./banner.png" alt="Banner" width="100%"/>
+<!-- Animated Header GIF -->
+<img src="./retro_coder.gif" width="100%" alt="Coding Animation"/>
 
 <br/>
 
@@ -53,39 +53,29 @@
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
+<!-- GitHub Stats Badges - One Line Like Eshan's -->
 <p>
   <img src="https://img.shields.io/badge/⭐_STARS-3-A855F7?style=for-the-badge" alt="Stars"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/🔥_COMMIT_ACTIVITY-37%2FMONTH-A855F7?style=for-the-badge" alt="Commits"/>
-  <img src="https://img.shields.io/badge/⏱_LAST_COMMIT-TODAY-10B981?style=for-the-badge" alt="Last Commit"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⏱_LAST_COMMIT-YESTERDAY-10B981?style=for-the-badge" alt="Last Commit"/>
 </p>
 
 <br/>
 
-<!-- Stats Grid -->
-<a href="https://github.com/HirushaGamage10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HirushaGamage10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushaGamage10&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
-</a>
+<!-- Contribution Graph + Activity Side by Side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&title_color=FFFFFF&area=true&hide_border=true&custom_title=Hirusha's%20Contribution%20Graph&height=250" alt="Contribution Graph"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HirushaGamage10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&title_color=FFFFFF&area=true&hide_border=true&custom_title=Hirusha's%20Contribution%20Graph" alt="Contribution Graph" width="98%"/>
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaGamage10&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HirushaGamage10&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
