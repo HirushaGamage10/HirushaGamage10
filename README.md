@@ -64,24 +64,20 @@
 
 <br/>
 
-<!-- Contribution Graph + GitHub Contribution Calendar Side by Side -->
+<!-- Contribution Graph + GitHub Heatmap Side by Side -->
 <table>
   <tr>
-    <td width="50%">
-      <h4>Hirusha's Contribution Graph</h4>
+    <td width="50%" align="center">
+      <h4 style="color: #A855F7;">Hirusha's Contribution Graph</h4>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&title_color=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Contribution Graph" width="100%"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=HirushaGamage10&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
-      <br/>
-      <img src="https://ghchart.rshah.org/A855F7/HirushaGamage10" alt="GitHub Contribution Calendar" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://ghchart.rshah.org/A855F7/HirushaGamage10" alt="GitHub Contribution Heatmap" width="100%"/>
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaGamage10&theme=transparent&hide_border=true&stroke=A855F7&ring=A855F7&fire=10B981&currStreakLabel=FFFFFF&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&background=0D1117" alt="Streak Stats" width="100%"/>
     </td>
   </tr>
 </table>
-
-<!-- Snake Animation -->
-<br/>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -103,16 +99,8 @@
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<!-- Cool Wave Animation -->
+<!-- Colorful Gradient Wave Footer -->
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-  
-### 💜 *"Always Learning, Always Growing"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer" width="100%"/>
 
 </div>
