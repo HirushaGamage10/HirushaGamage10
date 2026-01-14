@@ -49,7 +49,7 @@
 <img src="./pixel_dev.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Stats**
-
+<img src="./pixel_dev.gif" width="100%"/>
 <div align="center">
 
 <!-- GitHub Stats Badges - Dynamic Data -->
@@ -80,7 +80,7 @@
 <img src="./pixel_dev.gif" width="100%"/>
 
 ## 🤝 **Connect With Me**
-
+<img src="./pixel_dev.gif" width="100%"/>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hirusha-gamage/" target="_blank">
