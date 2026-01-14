@@ -1,18 +1,32 @@
 <div align="center">
-  
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Hirusha%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Passionate+Learner+%F0%9F%93%9A;Building+Digital+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Cool Banner Image -->
+<img src="./banner.png" alt="Banner" width="100%"/>
 
 <br/>
 
-<!-- Profile Views & Followers -->
+# Hi, I'm Hirusha Gamage 👋
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Software+Engineering+Student+%F0%9F%8E%93;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" /></a>
+
+</div>
+
+---
+
+<p align="center">
+<em>A passionate and driven software engineering student from Sri Lanka 🇱🇰, eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.</em>
+</p>
+
+---
+
+<div align="center">
+
+<!-- Profile Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=HirushaGamage10&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HirushaGamage10&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/HirushaGamage10?tab=followers">
-    <img src="https://img.shields.io/github/followers/HirushaGamage10?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/HirushaGamage10?label=Followers&style=for-the-badge&color=A855F7" alt="Followers"/>
   </a>
 </p>
 
@@ -20,72 +34,49 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="30px"> **About Me**
-
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-```yaml
-name: Hirusha Gamage
-located_in: Gampaha, Sri Lanka 🇱🇰
-current_focus: Software Engineering
-education: Aspiring Software Engineer
-interests: [Web Development, Mobile Apps, Problem Solving]
-hobbies: [Coding, Learning New Tech, Building Projects]
-life_motto: "Keep Learning, Keep Growing 🌱"
-```
-
-<br clear="both"/>
-
-> *A passionate and driven software engineering enthusiast from Sri Lanka, eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills.*
-
----
-
-## 🛠️ **Tech Stack**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
 
 <div align="center">
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php,dart,cs" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,flutter,bootstrap,tailwind" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman" />
-</p>
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,php,laravel" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cs,flutter,dart,aws,mongodb,mysql,firebase" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,figma" />
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Stats**
 
 <div align="center">
-  
+
+<!-- GitHub Stats Cards -->
+<p>
+  <img src="https://img.shields.io/badge/⭐_STARS-3-A855F7?style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/badge/🔥_COMMIT_ACTIVITY-37%2FMONTH-A855F7?style=for-the-badge" alt="Commits"/>
+  <img src="https://img.shields.io/badge/⏱_LAST_COMMIT-TODAY-10B981?style=for-the-badge" alt="Last Commit"/>
+</p>
+
+<br/>
+
+<!-- Stats Grid -->
 <a href="https://github.com/HirushaGamage10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HirushaGamage10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushaGamage10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HirushaGamage10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushaGamage10&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaGamage10&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&title_color=FFFFFF&area=true&hide_border=true&custom_title=Hirusha's%20Contribution%20Graph" alt="Contribution Graph" width="98%"/>
 
-<br/><br/>
+<br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HirushaGamage10&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaGamage10&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,15 +85,7 @@ life_motto: "Keep Learning, Keep Growing 🌱"
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HirushaGamage10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</div>
-
----
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HirushaGamage10/HirushaGamage10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HirushaGamage10&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -110,33 +93,31 @@ life_motto: "Keep Learning, Keep Growing 🌱"
 ## 🤝 **Connect With Me**
 
 <div align="center">
-  
+
 <a href="https://www.linkedin.com/in/hirusha-gamage/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:your.email@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/hirusha.gamage.585/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://github.com/HirushaGamage10" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+
+<!-- Cool Wave Animation -->
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer" width="100%"/>
 
 </div>
 
 ---
 
 <div align="center">
+  
+### 💜 *"Always Learning, Always Growing"*
 
-### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
-
-<!-- Profile README by HirushaGamage10 -->
