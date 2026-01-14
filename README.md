@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Image -->
-<img src="./header.png" width="100%" alt="Developer Header"/>
+<!-- Header Animation -->
+<img src="./pixel_dev.gif" width="100%" alt="Developer Animation"/>
 
 <br/>
 
