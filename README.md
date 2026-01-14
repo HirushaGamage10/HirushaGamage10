@@ -12,13 +12,13 @@
 
 </div>
 
----
+<br/>
 
 <p align="center">
 <em>A passionate and driven software engineering student from Sri Lanka 🇱🇰, eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.</em>
 </p>
 
----
+<br/>
 
 <div align="center">
 
@@ -32,13 +32,12 @@
 
 </div>
 
----
+<br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
 
 <div align="center">
 
-<!-- Languages -->
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,php,laravel" />
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,dart,aws,mongodb,mysql,firebase" />
@@ -47,13 +46,13 @@
 
 </div>
 
----
+<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Stats**
 
 <div align="center">
 
-<!-- GitHub Stats Badges - One Line Like  -->
+<!-- GitHub Stats Badges -->
 <p>
   <img src="https://img.shields.io/github/stars/HirushaGamage10?style=for-the-badge&logo=github&label=STARS&color=A855F7" alt="Stars"/>
   &nbsp;
@@ -78,7 +77,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🤝 **Connect With Me**
 
