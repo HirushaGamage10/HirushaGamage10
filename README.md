@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Video -->
-<video src="./header.mp4" width="100%" autoplay loop muted></video>
+<video src="./header.gif" width="100%" autoplay loop muted></video>
 
 <br/>
 
