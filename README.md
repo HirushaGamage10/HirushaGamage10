@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Image -->
-<img src="./header.png" width="100%" alt="Developer Header"/>
+<!-- Header Video -->
+<video src="./header.mp4" width="100%" autoplay loop muted></video>
 
 <br/>
 
